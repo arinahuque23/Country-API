@@ -23,6 +23,6 @@ This project is a simple website form that utilizes a country API to fetch count
 **Visit the website at: https://find-address-vest.surge.sh/**
 
 ***Technologies Used***
--React.js: Frontend development
--Country API: Fetching country information
--Local Storage: Saving and retrieving data locally in the browser
+1. React.js: Frontend development
+2. Country API: Fetching country information
+3. Local Storage: Saving and retrieving data locally in the browser
